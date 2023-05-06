@@ -164,7 +164,7 @@ Joann Vuong
 
 Fourth part of Airbnb:  
 Walter Angoye - [Github](https://github.com/chyna-gvng) / [Twitter](https://twitter.com/)  
-Boniface Muchiri - [Github](https://github.com/PrinceMuchiri) / [Twitter](https://twitter.com/)
+Boniface Muchiri - [Github](https://github.com/PrinceMuchiri) / [Twitter](https://twitter.com/Princemuchiri24)
 
 ## License
 Public Domain. No copy write protection. 
