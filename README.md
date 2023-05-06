@@ -162,7 +162,7 @@ David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twit
 Second part of Airbnb: Joann Vuong
 
 Fourth part of Airbnb:  
-Walter Angoye - [Github](https://github.com/chyna-gvng) / [Twitter](https://twitter.com/)
+Walter Angoye - [Github](https://github.com/chyna-gvng) / [Twitter](https://twitter.com/)  
 Boniface Muchiri - [Github](https://github.com/PrinceMuchiri) / [Twitter](https://twitter.com/)
 
 ## License
