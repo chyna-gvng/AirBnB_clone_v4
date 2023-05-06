@@ -157,4 +157,4 @@ class TestBaseModel(unittest.TestCase):
         self.assertNotEqual(old_updated_at, new_updated_at)
         self.assertEqual(old_created_at, new_created_at)
         self.assertTrue(mock_storage.new.called)
-        self.assertTrue(mock_storage.save.called))
+        self.assertTrue(mock_storage.save.called)
